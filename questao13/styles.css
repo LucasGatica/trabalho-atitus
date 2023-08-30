@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+
+.aproveitada{
+    background-color: white;
+    font-family: Helvetica;
+    text-align: justify;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+
+}
